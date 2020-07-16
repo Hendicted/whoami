@@ -6,5 +6,7 @@ because i can, and make people save like 20kb of space for no reason
 requires: gcc
 
 > git clone https://github.com/Hendicted/whoami/
+
 > cd whoami
+
 > gcc whoami.c -o whoami
