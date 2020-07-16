@@ -5,6 +5,6 @@ because i can, and make people save like 20kb of space for no reason
 # Compiling instructions
 requires: gcc
 
-git clone https://github.com/Hendicted/whoami/
-cd whoami
-gcc whoami.c -o whoami
+> git clone https://github.com/Hendicted/whoami/
+> cd whoami
+> gcc whoami.c -o whoami
